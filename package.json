@@ -1,0 +1,24 @@
+{
+	"name": "balsam_international_automation",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "commonjs",
+	"scripts": {},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"@playwright/test": "^1.53.0",
+		"@types/jest": "^29.5.14",
+		"@types/node": "^22.15.30",
+		"jest": "^29.7.0",
+		"jest-playwright-preset": "^4.0.0",
+		"playwright": "^1.53.0",
+		"ts-jest": "^29.3.4",
+		"typescript": "^5.8.3"
+	},
+	"dependencies": {
+		"dotenv": "^16.5.0"
+	}
+}
